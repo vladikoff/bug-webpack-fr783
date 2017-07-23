@@ -1,0 +1,15 @@
+{
+  "name": "bug-webpack-fr783",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-jose": "0.9.4",
+    "webpack": "3.3.0"
+  }
+}
